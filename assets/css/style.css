@@ -1402,10 +1402,6 @@ input:checked + .toggle-bg {
   white-space: nowrap;
 }
 
-.text-balance {
-  text-wrap: balance;
-}
-
 .text-pretty {
   text-wrap: pretty;
 }
@@ -1528,21 +1524,6 @@ input:checked + .toggle-bg {
   background-color: rgb(255 255 255 / 0.5);
 }
 
-.bg-slate-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(148 163 184 / var(--tw-bg-opacity));
-}
-
-.bg-slate-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
-}
-
-.bg-slate-100 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(241 245 249 / var(--tw-bg-opacity));
-}
-
 .p-1 {
   padding: 0.25rem;
 }
@@ -1610,11 +1591,6 @@ input:checked + .toggle-bg {
   text-align: center;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
@@ -1670,10 +1646,6 @@ input:checked + .toggle-bg {
 
 .leading-tight {
   line-height: 1.25;
-}
-
-.leading-none {
-  line-height: 1;
 }
 
 .tracking-normal {
@@ -2197,10 +2169,6 @@ input:checked + .toggle-bg {
   .xl\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
-  }
-
-  .xl\:leading-loose {
-    line-height: 2;
   }
 }
 
